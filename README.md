@@ -1,4 +1,5 @@
-App for read comics from http://xkcd.com[http://xkcd.com][1]
+App for read comics from [http://xkcd.com][1]
+
 [1]: http://xkcd.com
 
 git clone git://github.com/sash13/Xkcd-Viewer.git
