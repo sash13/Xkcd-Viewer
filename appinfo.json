@@ -1,0 +1,9 @@
+{
+	"id": "com.openidevru.xkcdviewer",
+	"version": "1.0.0",
+	"vendor": "Openidev.ru",
+	"type": "web",
+	"main": "index.html",
+	"title": "Xkcd Viewer",
+	"icon": "icon.png"
+}
